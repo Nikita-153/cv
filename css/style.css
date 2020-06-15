@@ -1,0 +1,33 @@
+body {
+  font-family: cursive;
+  background-color: #e5e5e5;
+}
+
+hr {
+
+  border-style: dotted none none;
+  border-color: #aacdbe;
+  border-width: 6px;
+  width: 5%;
+
+}
+
+h1{
+
+  color:#393e46;
+  font-family: cursive;
+  font-weight:bolder;
+}
+
+h3{
+  color:#393e46;
+}
+
+img{
+  height: 300px;
+  width: 300px;
+
+}
+image1.hover{
+  background-color:#6f0000;
+}
